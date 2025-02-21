@@ -2,7 +2,7 @@
 
 My name is Zeph a full-stack developer interested in all things Python, javascript, HTML, and CSS.
 
-- 🔭 I’m working on a new e-commerce website still in production.
+- 🔭 I’m working on a new e-commerce website https://github.com/zeph254/unishop-app which is still in production.
 - 
 - 🌱 I’m currently learning, Django and WordPress.
 - 
