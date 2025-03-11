@@ -2,7 +2,7 @@
 
 My name is Zeph a full-stack developer interested in all things Python, javascript, FastAPI, Flask, React, HTML, and CSS.
 
-- 🔭 I’m working on a new e-commerce website https://github.com/Andysam254/unishop-app/tree/development, which is still in production.
+- 🔭 I’m working on a new e-commerce website https://github.com/zeph254/unishop-fullstack , which is still in production.
 - 
 - 🌱 I’m currently learning, Django and WordPress.
 - 
