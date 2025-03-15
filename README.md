@@ -1,33 +1,43 @@
-## Hi there 👋
+# Hi there 👋, I'm Zeph!
 
-My name is Zeph a full-stack developer interested in all things Python, javascript, FastAPI, Flask, React, HTML, and CSS.
+🚀 **Full-Stack Developer | Python & JavaScript Enthusiast**  
+Passionate about building web applications with **Flask, FastAPI, Django, React, HTML, and CSS**.
 
-- 🔭 I’m working on a new e-commerce website https://github.com/zeph254/unishop-fullstack , which is still in production.
-- 
-- 🌱 I’m currently learning, Django and WordPress.
-- 
-- 👯 I’m looking to collaborate on various types of projects.
-- 
-- 🤔 I’m seeking help from a coach to help me in my career journey as a software developer.
-- 
-- 💬 Ask me about all things javascript and python.
-- 
-- 📫 How to reach me:  ularezephaniah@gmail.com or WhatsApp->0769068663.
-- 😄 Pronouns: Let's learn
-- ⚡ Fun fact: When the learning gets hard! You are learning something. 
+---
 
+## 🔥 About Me
+- 🎯 **Currently working on:** [Auctigon - Online Auction House](https://github.com/zeph254/Auctigon-online-auction) (🚧 In Production)
+- 📖 **Currently learning:** Django & WordPress
+- 🤝 **Open to collaborations:** Let's build something awesome together!
+- 🏆 **Seeking mentorship:** Looking for a coach to guide me in my software development journey.
+- 💡 **Fun fact:** When the learning gets hard, it means you're learning something new! 🚀
 
-<!--
-**zeph254/zeph254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats  
+![Zeph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeph254&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeph254&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Let's Connect  
+📧 **Email:** [ularezephaniah@gmail.com](mailto:ularezephaniah@gmail.com)  
+💬 **WhatsApp:** [0769068663](https://wa.me/254769068663)  
+🔗 **LinkedIn:** [Your LinkedIn Profile](#)  
+🐦 **Twitter:** [Your Twitter Profile](#)  
+
+---
+
+💙 _"Code, Learn, Build, Repeat!"_
