@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Zeph!  
 
 🚀 **Full-Stack Developer | Python & JavaScript Enthusiast**  
-Passionate about building **scalable web applications** with **Flask, FastAPI, Django, React, HTML, and CSS**.  
+Passionate about building **scalable web applications** with **Flask, FastAPI, Django, React, HTML,Node.js and CSS**.  
 
 ---
 
